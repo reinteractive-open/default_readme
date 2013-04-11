@@ -16,8 +16,8 @@ to make sure the critical information is captured.
 What does it cover?
 -----------------------
 
-You can read the [Entire README](https://github.com/reinteractive-open/default_readme/blob/master/DEFAULT_README.md)
-here for a full review.  But in summary:
+You can read the [entire README](https://github.com/reinteractive-open/default_readme/blob/master/DEFAULT_README.md)
+with descriptions for a full review.  But in summary:
 
 * Application Name Overview
 * Required Environment / Minimum Setup
@@ -32,12 +32,12 @@ here for a full review.  But in summary:
 * Known Issues / Gotcha
 * Extended Resources
 
-Each of these, when complete, gives a new developer a simple path to get the code installed and running 
+Each of these, when complete, gives a new developer a simple path to get the code installed and running
 on their own system.  Makes life a lot easier.
 
 Can we use it?
 -----------------------
 
 Of course!  Please!  The more apps that adopt this sort of README the easier it is for new
-developers to get developing.  We release this under the [MIT License](https://github.com/reinteractive-open/default_readme/blob/master/MIT-LICENSE).
+developers to get developing.  We release this under the [MIT License](https://github.com/reinteractive-open/default_readme/blob/master/MIT-LICENSE.txt).
 
