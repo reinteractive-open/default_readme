@@ -8,7 +8,7 @@ Required Environment / Minimum Setup
 ----------------------------------------------
 
 Ruby version.
-Minimum setup required to run the app. This should be checked by dev:setup
+Minimum setup required to run the app. This should be checked by `rake dev:setup`.
 
 
 Notable Deviations
